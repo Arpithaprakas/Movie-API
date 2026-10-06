@@ -7,4 +7,4 @@ Features
 * API Integration
 * Dynamic UI rendering
 
-* https://arpithaprakas.github.io/Movie-API/
+https://arpithaprakas.github.io/Movie-API/
